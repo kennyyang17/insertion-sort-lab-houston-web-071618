@@ -20,3 +20,4 @@ function insertionSort(array){
   }
   return result;
 }
+
